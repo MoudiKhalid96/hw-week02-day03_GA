@@ -15,13 +15,6 @@ In Random_Images solution Folder you have the following HTML in index.html file:
 <body>
 
   <div>
-    <label>
-      Width:
-      <input type="number" class="width" />
-    </label>
-    <label>
-      Height:
-      <input type="number" class="height" />
     </label>
     <button id="randomize">Get random image!</button>
   </div>
