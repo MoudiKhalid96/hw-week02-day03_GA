@@ -1,4 +1,4 @@
-# Optional Homework: Calculator
+# Homework: Calculator
 
 In Calculater solution Folder you have the following HTML in index.html file:
 

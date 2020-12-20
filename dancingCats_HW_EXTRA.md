@@ -1,4 +1,4 @@
-# Optional Homework: Animation
+# Homework: Animation
 
 ## The Cat Walk
 
