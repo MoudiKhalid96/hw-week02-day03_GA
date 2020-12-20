@@ -39,19 +39,5 @@ In Random_Images solution Folder you have the following HTML in index.html file:
   - Create a URL based on [this documentation](https://source.unsplash.com/)
     - e.g. It might look something like this: `https://source.unsplash.com/1600x900`
 
-## Bonuses
 
-### Bonus 1
 
-Allow the user to select the width and the height!
-
-### Bonus 2
-
-Allow the user to select where their image comes from using a dropdown
-
-Suggested options:
-
-- [Picsum](https://picsum.photos/)
-- [Fill Murray](http://www.fillmurray.com/)
-- [Place Cage](http://www.placecage.com/)
-- [Lorem Flickr](https://loremflickr.com/)
