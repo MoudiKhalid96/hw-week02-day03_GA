@@ -13,33 +13,43 @@
   <div class="half">
     <label>
       Half this number:
-      <input type="number" id="half-input" size="2">
+      <input type="number" id="half-input" size="2" >
     </label>
-    <button id="half-button">Calculate</button>
+    <button id="half-button" onclick="calculateHalfNumber()">Calculate</button>
   </div>
+<br>
+
 
   <div class="percent">
     <label>
       Fraction:
-      <input type="number" id="percent1-input" size="2">
+      <input type="number" id="percent1-input" size="2" oninput="calculateFractionNumbers()">
     </label>
+
+
+    <br>
+    <br>
     <label>
       Whole:
       <input type="number" id="percent2-input" size="2">
     </label>
-    <button id="percent-button">Calculate</button>
+    <button id="percent-button" onclick="calculateWholeNumbers()">Calculate</button>
   </div>
-
+<br>
   <div class="area">
     <label>
       Calculate area of circle with radius:
       <input type="number" id="area-input" size="2">
     </label>
-    <button id="area-button">Calculate</button>
+    <button id="area-button" onclick="calculateArea()">Calculate</button>
   </div>
 
+  <br><br>
   <div id="solution"></div>
 
+
+
+  <script src="JS/main.js"></script>
 </body>
 
 </html>
